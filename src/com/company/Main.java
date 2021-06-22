@@ -11,5 +11,6 @@ public class Main {
 	    data[1]=2;
         System.out.println(data.length);
         System.out.println(Arrays.stream(data).count());
+        System.out.println("os.susois");
     }
 }
